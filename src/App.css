@@ -13,6 +13,11 @@
   }
 }
 
+#completed {
+  text-decoration: line-through;
+  color : red ;
+
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
